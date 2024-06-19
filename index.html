@@ -41,8 +41,8 @@
 							<ul>
 								<li><a href="#ffcs">FFCS</a></li>
 								<li><a href="#gpa">GPA</a></li>
-								<!--<li><a href="#about">About</a></li>
-								<li><a href="#contact">Contact</a></li>
+								<li><a href="#resources">Resources</a></li>
+								<!--<li><a href="#contact">Contact</a></li>
 								<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
@@ -329,11 +329,33 @@
 							</nav>
 						</article>
 
-						<!-- About -->
-							<article id="about">
-								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+						<article id="resources">
+							<h2 class="major">Resources --in development--</h2>
+							<nav>
+								<div class="search-bar">
+									<input type="text" id="subjectinput" placeholder="Enter a Couse Code (Ex. MAT)" oninput="filterDropdownres()">
+									 
+									<select id="dropdownres">
+										<option value="CHY">CHY</option>
+										<option value="CSA">CSA</option>
+										<option value="CSE">CSE</option>
+										<option value="EEE">EEE</option>
+										<option value="ENG">ENG</option>
+										<option value="HUM">HUM</option>
+										<option value="MAT">MAT</option>
+										<option value="PHY">PHY</option>
+									</select>
+									 
+									<button id="submitres">Find Links!</button>
+									<p></p>
+									<div class="results">
+										<h2><center>Links</center></h2>
+										<h3 id="subject"></h3>
+									</div>
+								</div>
+							</nav>
+						</article>
+								</nav>
 							</article>
 
 						<!-- Contact -->
@@ -612,12 +634,14 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="index.js"></script>
 			<script src="search.js"></script>
 			<script src="gpa.js"></script>
+			<script src="res.js"></script>
 			<script>
 				document.getElementById("reload1").onclick = function() {
 					location.reload();
 				};
 			</script>
-			<script>
+
+<!--			<script>
 				function copyEmail() {
 					// Create a temporary input element
 					var tempInput = document.createElement("input");
@@ -635,5 +659,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					alert("Email copied to clipboard: akshatsharmain11@gmail.com");
 				}
 			</script>
+-->
 	</body>
 </html>

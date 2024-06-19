@@ -26,10 +26,10 @@ document.getElementById('submitgpa').addEventListener('click', function() {
         let credit = parseInt(document.getElementById('c' + i).value);
 
         if (grade !== 'x' && credit && !isNaN(credit) && credit > 0) {
-            if (grade in points && credit.toString() in credits) { // Ensure credit value is valid
+            if (grade in points && credit.toString() in credits) {
                 totalPoints += points[grade] * credit;
                 totalCredits += credit;
-                totalHours += credits[credit.toString()]; // Accumulate total hours based on credit
+                totalHours += credits[credit.toString()];
             }
         }
     }
