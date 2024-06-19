@@ -1632,6 +1632,9 @@ document.getElementById("submit").addEventListener('click', function () {
 
 document.getElementById('reload').addEventListener('click', function() {
   location.reload();
+
+document.getElementById('reload1').addEventListener('click', function() {
+  location.reload();
 });
 
 

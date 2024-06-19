@@ -14,9 +14,11 @@
 
 				<!-- Header -->
 					<header id="header">
-						<div class="logo">
-							<span  class="icon brands fa-github"></i></span>
-						</div>
+						<nav>
+							<ul>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfazTsDT85nokWOIHneZwQzrVa9bDtcelNWX5j3qJtAb-tbag/viewform?usp=sf_link "target="_blank">Submit a Review!</a></li>
+							</ul>
+						</nav>
 						<div class="content">
 							<div class="inner">
 								<h1>Fac_Chek</h1>
@@ -302,11 +304,12 @@
 								</div>
 								<p> </p>
 								<button id="submitgpa">Find out!</button>
-								<button id="reload">Reload</button>
+								<button id="reload1">Reload</button>
 								<p> </p>
 								<div class="result">
 								<h3><center>Result</center></h3>
 							<center><h1 id="resultsgpa"></h1></center>
+							<center><h3 id="resultsgpa1"></h3></center>
 								</div>
 							</nav>
 						</article>
@@ -612,6 +615,10 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="index.js"></script>
 			<script src="search.js"></script>
 			<script src="gpa.js"></script>
-
+			<script>
+				document.getElementById("reload1").onclick = function() {
+					location.reload();
+				};
+			</script>
 	</body>
 </html>
