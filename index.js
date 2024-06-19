@@ -1,4 +1,3 @@
-// Creating an object for the details of each teacher
 const PROFFESSORS = {
 
   'Abha Gupta': {
@@ -101,6 +100,7 @@ const PROFFESSORS = {
     'Color': '#43354b',
 
   },
+  
   'Anand Motwani': {
     'Teaching': '3.5',
     'Evaluation': '4',
@@ -1321,16 +1321,16 @@ const PROFFESSORS = {
     'Color': '#4d5074',
 
   },
-  // 'Thiyagu ': {
-  //   'Teaching': '5',
-  //   'Evaluation': '5',
-  //   'Behaviour': '5',
-  //   'Internals': '5',
-  //   'Average': 'High',
-  //   'Overall': 'Good',
-  //   'Color': '#4d5074',
-  //   'noOfReviews': '1'
-  // },
+    'Thiyagu ': {
+    'Teaching': '5',
+    'Evaluation': '5',
+    'Behaviour': '5',
+    'Internals': '5',
+    'Average': 'High',
+    'Overall': 'Good',
+    'Color': '#4d5074',
+    'noOfReviews': '1'
+  },
   'Ujjwal Kumar Mishra': {
     'Teaching': '3.5',
     'Evaluation': '2.5',
@@ -1601,6 +1601,53 @@ const PROFFESSORS = {
     
   },
   
+  'Sanjib Nayak ':{ 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'medium', 'Overall': 'good' },
+
+  'Arindam sadhukhan': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'low', 'Overall': 'good' },
+
+  'vijay kumar patel': { 'Teaching': '1', 'Evaluation': '1', 'Behaviour': '1', 'Internals': '1', 'Average': 'medium', 'Overall': 'bad' },
+
+  'Hemanta Kallita (HK Sir)': { 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'medium', 'Overall': 'good' },
+  
+  'Saumya shankar ghosh Sir': { 'Teaching': '5', 'Evaluation': '2', 'Behaviour': '3', 'Internals': '2', 'Average': 'low', 'Overall': 'bad' },
+  
+  'Kumkum Ma': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'high', 'Overall': 'good' },
+  
+  'Manoj Acharya Sir': { 'Teaching': '5', 'Evaluation': '3', 'Behaviour': '3', 'Internals': '4', 'Average': 'medium', 'Overall': 'good' },
+  
+  'Rajeev Saxena Sir': { 'Teaching': '1', 'Evaluation': '2', 'Behaviour': '4', 'Internals': '1', 'Average': 'high', 'Overall': 'bad' },
+  
+  'Aanjan kumar sir': { 'Teaching': '3', 'Evaluation': '4', 'Behaviour': '5', 'Internals': '5', 'Average': 'low', 'Overall': 'good' },
+  
+  'Payal Saxena ': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '3', 'Average': 'high', 'Overall': 'good' },
+  
+  'Pranshu Pranjal ': { 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '4', 'Average': 'medium', 'Overall': 'good' },
+  
+  'Vinod': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'medium', 'Overall': 'good' },
+  
+  'Santosh Kumar Tripathy': { 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'high', 'Overall': 'good' },
+  
+  'Arindam sadukhan': { 'Teaching': '2', 'Evaluation': '5', 'Behaviour': '4', 'Internals': '4', 'Average': 'MEDIUM', 'Overall': 'AVERAGE' },
+  
+  'Ashish kesarwani': { 'Teaching': '5', 'Evaluation': '3', 'Behaviour': '3', 'Internals': '3', 'Average': 'MEDIUM', 'Overall': 'AVERAGE' },
+  
+  'jyothi aruna': { 'Teaching': '4', 'Evaluation': '4', 'Behaviour': '5', 'Internals': '5', 'Average': 'HIGH', 'Overall': 'GOOD' },
+  
+  'dev rat gupta': { 'Teaching': '4', 'Evaluation': '4', 'Behaviour': '4', 'Internals': '3', 'Average': 'MEDIUM', 'Overall': 'AVERAGE' },
+  
+  'navneet kumar warden': { 'Teaching': '4', 'Evaluation': '2', 'Behaviour': '3', 'Internals': '5', 'Average': 'LOW', 'Overall': 'BAD' },
+  
+  'Abrar yaqoob ': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '4', 'Average': 'MEDIUM', 'Overall': 'GOOD' },
+  
+  'Sajjad Ahmad': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'LOW', 'Overall': 'GOOD' },
+  
+  'Satyam Ravi': { 'Teaching': '3', 'Evaluation': '3', 'Behaviour': '4', 'Internals': '4', 'Average': 'MEDIUM;HIGH', 'Overall': 'AVERAGE' },
+  
+  'Arindam Sadhukhan ': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'MEDIUM;HIGH', 'Overall': 'GOOD' },
+  
+  'Pranshu Pranjal': { 'Teaching': '4', 'Evaluation': '4', 'Behaviour': '5', 'Internals': '5', 'Average': 'MEDIUM', 'Overall': 'GOOD' },
+  
+  'Pradeep Mishra': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'MEDIUM;HIGH', 'Overall': 'GOOD' }
 
 
 
@@ -1610,12 +1657,16 @@ const PROFFESSORS = {
 
 };
 
-//capturing the selected value in the dropdown
+
 document.getElementById("submit").addEventListener('click', function () {
   let dropdown = document.getElementById("dropdown");
   let selectedProf = dropdown.value;
 
-  // checking whether the selected Proffessors detail is present in our Object or not
+  document.getElementById('reload').addEventListener('click', function() {
+    location.reload();
+});
+
+
   if (selectedProf in PROFFESSORS) {
     let selectedOption = document.getElementById("selectedOption");
     let Teaching = PROFFESSORS[selectedProf]['Teaching'];
@@ -1627,12 +1678,10 @@ document.getElementById("submit").addEventListener('click', function () {
 
 
 
-
-    //   Fetching Review of the selected Proffessor
     selectedOption.style.textAlign = 'center';
     selectedOption.style.margin = 'auto';
     selectedOption.style.display = 'block';
-    selectedOption.style.width = '100%'; // Adjust the width as needed
+    selectedOption.style.width = '100%';
     selectedOption.innerHTML = `Teaching: ${Teaching} <br>
               Evaluation : ${Evaluation} <br>
               Behaviour : ${Behaviour} <br>
@@ -1641,7 +1690,6 @@ document.getElementById("submit").addEventListener('click', function () {
               Overall : ${Overall} <br>`
 
       ;
-/*    selectedOption.setAttribute("style", `background-color:${Color};`);   */
 
 
   }

@@ -1023,10 +1023,10 @@ input, select, textarea {
 		height: 2.75rem;
 		letter-spacing: 0.2rem;
 		line-height: 2.75rem;
+		margin-top: 2rem;
+		margin-right: 1.5rem;
 		outline: 0;
 		padding: 0 1.25rem 0 1.35rem;
-		margin-top: 1rem;
-		margin-bottom: 2rem;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -1661,11 +1661,3 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
-
-		.center-text {
-			text-align: center;
-			margin: auto;
-			display: block;
-			width: 50%; /* Adjust the width as needed */
-		}
-		
