@@ -1102,10 +1102,10 @@ const PROFFESSORS = {
 
   },
   'Saurabh Bhargava': {
-    'Teaching': '4/5',
-    'Evaluation': '3/5',
-    'Behaviour': '3/5',
-    'Internals': '4/5',
+    'Teaching': '4',
+    'Evaluation': '3',
+    'Behaviour': '3',
+    'Internals': '4',
     'Average': 'Low',
     'Overall': 'Average',
     'Color': '#43354b',
@@ -1312,10 +1312,10 @@ const PROFFESSORS = {
 
   },
   'S. Periyanagi': {
-    'Teaching': '5/5',
-    'Evaluation': '4/5',
-    'Behaviour': '3/5',
-    'Internals': '3/5',
+    'Teaching': '5',
+    'Evaluation': '4',
+    'Behaviour': '3',
+    'Internals': '3',
     'Average': 'Medium',
     'Overall': 'Good',
     'Color': '#4d5074',
@@ -1432,10 +1432,10 @@ const PROFFESSORS = {
 
   },
   'D.S Devraju': {
-    'Teaching': '4/5',
-    'Evaluation': '3/5',
-    'Behaviour': '5/5',
-    'Internals': '4/5',
+    'Teaching': '4',
+    'Evaluation': '3',
+    'Behaviour': '5',
+    'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Good',
     'Color': '#4d5074',
@@ -1452,60 +1452,60 @@ const PROFFESSORS = {
 
   },
   'Hemant Nashine': {
-    'Teaching': '4/5',
-    'Evaluation': '3/5',
-    'Behaviour': '3/5',
-    'Internals': '3/5',
+    'Teaching': '4',
+    'Evaluation': '3',
+    'Behaviour': '3',
+    'Internals': '3',
     'Average': 'Medium',
     'Overall': 'Average',
     'Color': '#43354b',
 
   },
   'Bhavana Bhagerwal': {
-    'Teaching': '4/5',
-    'Evaluation': '4/5',
-    'Behaviour': '4.5/5',
-    'Internals': '3.75/5',
+    'Teaching': '4',
+    'Evaluation': '4',
+    'Behaviour': '4.5',
+    'Internals': '3.75',
     'Average': 'Medium',
     'Overall': 'Good',
     'Color': '#4d5074',
 
   },
   'KK Nair': {
-    'Teaching': '5/5',
-    'Evaluation': '4/5',
-    'Behaviour': '5/5',
-    'Internals': '4/5',
+    'Teaching': '5',
+    'Evaluation': '4',
+    'Behaviour': '5',
+    'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Good',
     'Color': '#4d5074',
 
   },
   'Suresh Dara': {
-    'Teaching': '4/5',
-    'Evaluation': '5/5',
-    'Behaviour': '5/5',
-    'Internals': '4/5',
+    'Teaching': '4',
+    'Evaluation': '5',
+    'Behaviour': '5',
+    'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Good',
     'Color': '#4d5074',
 
   },
   'Bhumika Choksi': {
-    'Teaching': '3/5',
-    'Evaluation': '4/5',
-    'Behaviour': '3/5',
-    'Internals': '4/5',
+    'Teaching': '3',
+    'Evaluation': '4',
+    'Behaviour': '3',
+    'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Average',
     'Color': '#43354b',
 
   },
   'Siddharth K.V': {
-    'Teaching': '3/5',
-    'Evaluation': '2/5',
-    'Behaviour': '2/5',
-    'Internals': '2/5',
+    'Teaching': '3',
+    'Evaluation': '2',
+    'Behaviour': '2',
+    'Internals': '2',
     'Average': 'Low',
     'Overall': 'Bad',
     'Color': '#420837',
@@ -1513,40 +1513,40 @@ const PROFFESSORS = {
   },
 
   'Sandeep Sahu': {
-    'Teaching': '3/5',
-    'Evaluation': '4/5',
-    'Behaviour': '5/5',
-    'Internals': '4/5',
+    'Teaching': '3',
+    'Evaluation': '4',
+    'Behaviour': '5',
+    'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Good',
     'Color': '#4d5074',
 
   },
   'Akshay Jadav':{
-    'Teaching': '5/5',
-    'Evaluation': '4/5',
-    'Behaviour': '5/5',
-    'Internals': '5/5',
+    'Teaching': '5',
+    'Evaluation': '4',
+    'Behaviour': '5',
+    'Internals': '5',
     'Average': 'Medium',
     'Overall': 'Good',
     'Color': '#4d5074',
 
   },
   'Uday Kumar':{
-    'Teaching': '3/5',
-    'Evaluation': '4/5',
-    'Behaviour': '5/5',
-    'Internals': '4/5',
+    'Teaching': '3',
+    'Evaluation': '4',
+    'Behaviour': '5',
+    'Internals': '4',
     'Average': 'Low',
     'Overall': 'Good',
     'Color': '#4d5074',
 
   },
   'Sughvanewshar Ramu Pasupathi':{
-    'Teaching': '3/5',
-    'Evaluation': '5/5',
-    'Behaviour': '4/5',
-    'Internals': '4/5',
+    'Teaching': '3',
+    'Evaluation': '5',
+    'Behaviour': '4',
+    'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Good',
     'Color': '#4d5074',
@@ -1554,20 +1554,20 @@ const PROFFESSORS = {
   },
   
   'Deepankar Sutradhar':{
-    'Teaching': '3/5',
-    'Evaluation': '5/5',
-    'Behaviour': '4.5/5',
-    'Internals': '5/5',
+    'Teaching': '3',
+    'Evaluation': '5',
+    'Behaviour': '4.5',
+    'Internals': '5',
     'Average': 'High',
     'Overall': 'Good',
     'Color': '#4d5074',
 
   },
   'S Saravanan':{
-    'Teaching': '4/5',
-    'Evaluation': '5/5',
-    'Behaviour': '4/5',
-    'Internals': '4/5',
+    'Teaching': '4',
+    'Evaluation': '5',
+    'Behaviour': '4',
+    'Internals': '4',
     'Average': 'High',
     'Overall': 'Good',
     'Color': '#4d5074',
@@ -1576,10 +1576,10 @@ const PROFFESSORS = {
   },
 
   'R.P Sugavaneshwar':{
-    'Teaching': '2/5',
-    'Evaluation': '1/5',
-    'Behaviour': '1/5',
-    'Internals': '2/5',
+    'Teaching': '2',
+    'Evaluation': '1',
+    'Behaviour': '1',
+    'Internals': '2',
     'Average': 'Low',
     'Overall': 'Bad',
     'Color': '#420837',
@@ -1588,10 +1588,10 @@ const PROFFESSORS = {
   },
   
   'Santosh Kumar Bhal':{
-    'Teaching': '3/5',
-    'Evaluation': '3/5',
-    'Behaviour': '3/5',
-    'Internals': '4/5',
+    'Teaching': '3',
+    'Evaluation': '3',
+    'Behaviour': '3',
+    'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Average',
     'Color': '#43354b',
@@ -1599,54 +1599,29 @@ const PROFFESSORS = {
     
   },
   
-  'Sanjib Nayak ':{ 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'medium', 'Overall': 'good' },
+  'Sanjib Nayak':{ 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'medium', 'Overall': 'good' },
 
-  'Arindam sadhukhan': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'low', 'Overall': 'good' },
-
-  'vijay kumar patel': { 'Teaching': '1', 'Evaluation': '1', 'Behaviour': '1', 'Internals': '1', 'Average': 'medium', 'Overall': 'bad' },
-
-  'Hemanta Kallita (HK Sir)': { 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'medium', 'Overall': 'good' },
-  
-  'Saumya shankar ghosh Sir': { 'Teaching': '5', 'Evaluation': '2', 'Behaviour': '3', 'Internals': '2', 'Average': 'low', 'Overall': 'bad' },
-  
-  'Kumkum Ma': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'high', 'Overall': 'good' },
-  
-  'Manoj Acharya Sir': { 'Teaching': '5', 'Evaluation': '3', 'Behaviour': '3', 'Internals': '4', 'Average': 'medium', 'Overall': 'good' },
-  
-  'Rajeev Saxena Sir': { 'Teaching': '1', 'Evaluation': '2', 'Behaviour': '4', 'Internals': '1', 'Average': 'high', 'Overall': 'bad' },
-  
+  'Hemanta Kallita': { 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'medium', 'Overall': 'good' },
+    
+  'Kumkum': { 'Teaching': '5', 'Evaluation': '4', 'Behaviour': '3', 'Internals': '3', 'Average': 'high', 'Overall': 'medium' },
+      
   'Aanjan kumar sir': { 'Teaching': '3', 'Evaluation': '4', 'Behaviour': '5', 'Internals': '5', 'Average': 'low', 'Overall': 'good' },
   
-  'Payal Saxena ': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '3', 'Average': 'high', 'Overall': 'good' },
-  
-  'Pranshu Pranjal ': { 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '4', 'Average': 'medium', 'Overall': 'good' },
-  
-  'Vinod': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'medium', 'Overall': 'good' },
-  
+  'Payal Saxena': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '3', 'Average': 'high', 'Overall': 'good' },
+    
   'Santosh Kumar Tripathy': { 'Teaching': '4', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'high', 'Overall': 'good' },
-  
-  'Arindam sadukhan': { 'Teaching': '2', 'Evaluation': '5', 'Behaviour': '4', 'Internals': '4', 'Average': 'MEDIUM', 'Overall': 'AVERAGE' },
-  
+    
   'Ashish kesarwani': { 'Teaching': '5', 'Evaluation': '3', 'Behaviour': '3', 'Internals': '3', 'Average': 'MEDIUM', 'Overall': 'AVERAGE' },
   
-  'jyothi aruna': { 'Teaching': '4', 'Evaluation': '4', 'Behaviour': '5', 'Internals': '5', 'Average': 'HIGH', 'Overall': 'GOOD' },
+  'Jyothi aruna': { 'Teaching': '4', 'Evaluation': '4', 'Behaviour': '5', 'Internals': '5', 'Average': 'HIGH', 'Overall': 'GOOD' },
+    
+  'Navneet kumar': { 'Teaching': '4', 'Evaluation': '2', 'Behaviour': '3', 'Internals': '5', 'Average': 'LOW', 'Overall': 'BAD' },
   
-  'dev rat gupta': { 'Teaching': '4', 'Evaluation': '4', 'Behaviour': '4', 'Internals': '3', 'Average': 'MEDIUM', 'Overall': 'AVERAGE' },
-  
-  'navneet kumar warden': { 'Teaching': '4', 'Evaluation': '2', 'Behaviour': '3', 'Internals': '5', 'Average': 'LOW', 'Overall': 'BAD' },
-  
-  'Abrar yaqoob ': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '4', 'Average': 'MEDIUM', 'Overall': 'GOOD' },
+  'Abrar yaqoob': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '4', 'Average': 'MEDIUM', 'Overall': 'GOOD' },
   
   'Sajjad Ahmad': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'LOW', 'Overall': 'GOOD' },
-  
-  'Satyam Ravi': { 'Teaching': '3', 'Evaluation': '3', 'Behaviour': '4', 'Internals': '4', 'Average': 'MEDIUM;HIGH', 'Overall': 'AVERAGE' },
-  
-  'Arindam Sadhukhan ': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'MEDIUM;HIGH', 'Overall': 'GOOD' },
-  
+      
   'Pranshu Pranjal': { 'Teaching': '4', 'Evaluation': '4', 'Behaviour': '5', 'Internals': '5', 'Average': 'MEDIUM', 'Overall': 'GOOD' },
-  
-  'Pradeep Mishra': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'MEDIUM;HIGH', 'Overall': 'GOOD' }
-
 
 };
 
