@@ -1512,8 +1512,6 @@ const PROFFESSORS = {
 
   },
 
-  // Extra datas deleted 
-
   'Sandeep Sahu': {
     'Teaching': '3/5',
     'Evaluation': '4/5',
@@ -1650,11 +1648,6 @@ const PROFFESSORS = {
   'Pradeep Mishra': { 'Teaching': '5', 'Evaluation': '5', 'Behaviour': '5', 'Internals': '5', 'Average': 'MEDIUM;HIGH', 'Overall': 'GOOD' }
 
 
-
-
-
-
-
 };
 
 
@@ -1662,8 +1655,8 @@ document.getElementById("submit").addEventListener('click', function () {
   let dropdown = document.getElementById("dropdown");
   let selectedProf = dropdown.value;
 
-  document.getElementById('reload').addEventListener('click', function() {
-    location.reload();
+document.getElementById('reload').addEventListener('click', function() {
+  location.reload();
 });
 
 
