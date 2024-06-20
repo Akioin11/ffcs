@@ -51,11 +51,13 @@ document.getElementById("submitres").addEventListener('click', function () {
         let subject = document.getElementById("subject");
         let Link = subs[selectedres]['Link'];
         let clickh = `Click Here!`
-        subject.innerHTML = `<a href="${Link}" target="_blank">${Link}</a><br>`;
+        subject.innerHTML = `<a href="${Link}" target="_blank">${Link}</a>
+        ff
+        <br>`;
     } else {
         let subject = document.getElementById("subject");
-        subject.innerHTML = `Please Select a Course from the Dropdown list`;
-        subject.setAttribute("style", `color: #f0ff00;`);
+        subject.innerHTML = `Please Select a Course from the available options`;
+        subject.setAttribute("style", `color: #FF1800;`);
     }
 });
 
@@ -72,6 +74,6 @@ document.getElementById("submitres").addEventListener('click', function () {
         subject.innerHTML = `<a href="${Link}" target="_blank">${Link}</a><br>`;
     } else {
         let subject = document.getElementById("subject");
-        subject.innerHTML = `Please Select a Course from the Dropdown list`;
+        subject.innerHTML = `Please Select a Course from the available options`;
     }
 });
