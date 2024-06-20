@@ -1,27 +1,27 @@
 const subs = {
     'MAT': {
-        'Link': 'https://drive.google.com/drive/folders/\n1TAZ6zXNSp52osmmJLtnFteFaZRWw8UaN?usp=sharing',
+        'Link': 'https://1drv.ms/f/s!Ap0RqjyeMmhGbJNpj2Ra01QKk_M?e=ZcIO8B',
     },
     'CHY': {
-        'Link': 'https://drive.google.com/drive/folders/1O\noCrLh0BBA1H6d-BTCRN96kw_8G_d9eU?usp=sharing',
+        'Link': 'https://1drv.ms/f/s!Ap0RqjyeMmhGgRA81mU1cPWHAR79?e=1uO0Pl',
     },
     'CSE': {
-        'Link': 'https://drive.google.com/drive/folders/1QDG\n35uQJaDkVJjGL_880f2GPrqZ9HHiH?usp=sharing',
+        'Link': 'https://1drv.ms/f/s!Ap0RqjyeMmhGgWZhQmT91TneScPF?e=qHafut',
     },
     'EEE': {
-        'Link': 'https://drive.google.com/drive/folders/1BBrLyL92ognwOMVdqbt_WOWtTFXZOzkP?usp=sharing',
+        'Link': 'https://1drv.ms/f/s!Ap0RqjyeMmhGgVBdJRmNeWVBGOb6?e=dp9sVC',
     },
     'PHY': {
-        'Link': 'https://drive.google.com/drive/folders/1jWkpIwzHXxKHLWIIRA3KTH8EQADCJ_IK?usp=sharing',
+        'Link': 'https://1drv.ms/f/s!Ap0RqjyeMmhGgS65jyymbE9lPlUn?e=1AuPVb',
     },
     'ENG': {
-        'Link': 'https://drive.google.com/drive/folders/1kMODA7_lkoXGImE-XMYeefPtv-XWZCA3?usp=sharing',
+        'Link': 'https://1drv.ms/f/s!Ap0RqjyeMmhGgXT830XVnE6OA1GY?e=ddBk2M',
     },
     'HUM': {
-        'Link': 'https://drive.google.com/drive/folders/1luZOzHLdsIW_L66HBQ_nz2ZXCoigQgn-?usp=sharing',
+        'Link': 'https://1drv.ms/f/s!Ap0RqjyeMmhGghMJdtJXifj4E4ko?e=E5ZXIy',
     },
     'CSA': {
-        'Link': 'https://drive.google.com/drive/folders/1Yz0mIB-KL_iTWkG1rHfFP9Rd2CTNX2ZU?usp=sharing',
+        'Link': 'https://1drv.ms/f/s!Ap0RqjyeMmhGgXuirW1poPi9JDER?e=Lx8PV7',
     },
 
 };
