@@ -1630,6 +1630,10 @@ document.getElementById("submit").addEventListener('click', function () {
   let dropdown = document.getElementById("dropdown");
   let selectedProf = dropdown.value;
 
+  document.getElementById('reload').addEventListener('click', function() {
+    location.reload();
+  
+
 });
 
 
