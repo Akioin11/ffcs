@@ -1331,7 +1331,6 @@ document.getElementById('reload').addEventListener('click', function() {
   else {
     let selectedOption = document.getElementById("selectedOption");
     selectedOption.innerHTML = `Please Select a Professor from the above Dropdown list`;
-    selectedOption.setAttribute("style", `color: #f0ff00;`);
   }
 })
 
