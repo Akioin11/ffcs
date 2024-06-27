@@ -1111,7 +1111,7 @@ const PROFFESSORS = {
     'Color': '#43354b',
 
   },
-  'Sayed Mohammad zeeshan ': {
+  'Sayed Mohammad zeeshan': {
     'Teaching': '4',
     'Evaluation': '4',
     'Behaviour': '5',
@@ -1121,7 +1121,7 @@ const PROFFESSORS = {
     'Color': '#4d5074',
 
   },
-  'Shahid Abdullah ': {
+  'Shahid Abdullah': {
     'Teaching': '5',
     'Evaluation': '4.5',
     'Behaviour': '5',
@@ -1211,7 +1211,7 @@ const PROFFESSORS = {
     'Color': '#420837',
 
   },
-  'Sonali Shrivastav ': {
+  'Sonali Shrivastav': {
     'Teaching': '3',
     'Evaluation': '3',
     'Behaviour': '3.25',
@@ -1231,7 +1231,7 @@ const PROFFESSORS = {
     'Color': '#4d5074',
 
   },
-  'Soumya Sanskar Ghosh ': {
+  'Soumya Sanskar Ghosh': {
     'Teaching': '2',
     'Evaluation': '2.5',
     'Behaviour': '3',
@@ -1301,7 +1301,7 @@ const PROFFESSORS = {
     'Color': '#43354b',
 
   },
-  'Swati Chauhan ': {
+  'Swati Chauhan': {
     'Teaching': '3',
     'Evaluation': '1',
     'Behaviour': '2',
