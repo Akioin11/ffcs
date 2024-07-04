@@ -1679,3 +1679,113 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+		.container {
+			--uib-size: 60px;
+			--uib-color: rgb(255, 255, 255);
+			--uib-speed: .9s;
+			position: relative;
+			height: calc(var(--uib-size) / 2);
+			width: var(--uib-size);
+			filter: url('#uib-jelly-ooze');
+			animation: rotate calc(var(--uib-speed) * 2) linear infinite;
+			will-change: transform;
+			align-self: center;
+		}
+
+		body.is-preload #footer {
+			opacity: 0;
+		}
+		
+		body, html {
+			height: 100%;
+			margin: 0;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			font-family: Arial, sans-serif;
+			background-color: #2a2a2a;
+			color: #ffffff;
+			text-align: center;
+		}
+		
+		.content-wrapper {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+		
+		.container {
+			--uib-size: 60px;
+			--uib-color: rgb(255, 255, 255);
+			--uib-speed: .9s;
+			position: relative;
+			height: calc(var(--uib-size) / 2);
+			width: var(--uib-size);
+			filter: url('#uib-jelly-ooze');
+			animation: rotate calc(var(--uib-speed) * 2) linear infinite;
+			will-change: transform;
+			margin: 10px 0 50px;
+			
+		}
+		
+		.container::before,
+		.container::after {
+			content: '';
+			position: absolute;
+			top: 0%;
+			left: 25%;
+			width: 50%;
+			height: 100%;
+			background-color: var(--uib-color);
+			border-radius: 100%;
+			will-change: transform;
+			transition: background-color 0.3s ease;
+			padding-bottom: 2rem;
+		}
+		
+		.container::before {
+			animation: shift-left var(--uib-speed) ease infinite;
+		}
+		
+		.container::after {
+			animation: shift-right var(--uib-speed) ease infinite;
+		}
+		
+		.svg {
+			width: 0;
+			height: 0;
+			position: absolute;
+		}
+		
+		@keyframes rotate {
+			0%,
+			49.999%,
+			100% {
+				transform: none;
+			}
+			50%,
+			99.999% {
+				transform: rotate(90deg);
+			}
+		}
+		
+		@keyframes shift-left {
+			0%,
+			100% {
+				transform: translateX(0%);
+			}
+			50% {
+				transform: scale(0.65) translateX(-75%);
+			}
+		}
+		
+		@keyframes shift-right {
+			0%,
+			100% {
+				transform: translateX(0%);
+			}
+			50% {
+				transform: scale(0.65) translateX(75%);
+			}
+		}
+		
